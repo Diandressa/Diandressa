@@ -1,7 +1,7 @@
 <div align="left">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVidTI1cDRqcGF3MXJzcjJobTZzbDkwOXRwemxwbWIzeGg1OGpvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvDTq5V3EepBS/giphy.gif" width="100%" alt="profile picture"  />
 </div>
-
+<p align="left">"Você veio aqui porque sabe de algo. Algo que você não consegue explicar, mas sente. Como um bug no sistema."</p>
 <h1 align="left">Hi 👋! My name is Andressa and I'm a passionate frontend developer</h1>
 
 ###
