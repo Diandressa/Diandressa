@@ -98,11 +98,11 @@
 ###
 
 <p align="center">Profile views</p>
+<p align="center">Start: 23/07/2025</p>
 
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Diandressa/count.svg?"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diandressa&style=flat-square&color=ff69b4" alt="Profile views" />
+</p>
 
 ###
 
