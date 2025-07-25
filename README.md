@@ -1,34 +1,23 @@
-<h1 align="left">Olá 👋! Me chamo Andressa e estudo para ser uma desenvolvedora Front-End</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&duration=3000&pause=1000&color=F74476&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+me+chamo+Andressa!!)](https://git.io/typing-svg)
 
-<div align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVidTI1cDRqcGF3MXJzcjJobTZzbDkwOXRwemxwbWIzeGg1OGpvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvDTq5V3EepBS/giphy.gif" width="100%" alt="profile picture" />
-</div>
-<p align="center">"Você veio aqui porque sabe de algo. Algo que você não consegue explicar, mas sente. Como um bug no sistema."</p>
-<hr>
+📚 Estudante de Front-End\
+🖌 Atuamente Designer
 
-###
+## 🚀 Dev Stacks
 
-<h2 align="left">🚀 Dev Stacks</h2>
-
-###
-
-<p>Develop:</p>
+### Develop:
 
 [![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,sass,javascript,typescript,laravel&theme=dark&perline=15)](https://skillicons.dev)
 
-<p>Version Control/Versionamento de código:</p>
+### Version Control/Versionamento de código:
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,bitbucket&theme=dark&perline=15)](https://skillicons.dev)
 
-<p>Design Tools/Ferramentas de Design:</p>
+### Design Tools/Ferramentas de Design:
 
 [![My Skills](https://skillicons.dev/icons?i=illustrator,photoshop,xd,wordpress&theme=dark&perline=15)](https://skillicons.dev)
 
-###
-
-<h2 align="left">⚡️ Where to find me/ Onde me encontrar</h2>
-
-###
+## ⚡️ Where to find me/ Onde me encontrar
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andressa-nicolau" target="_blank">
@@ -36,11 +25,8 @@
   </a>
 </div>
 
-###
 
-<h2 align="left">📁 Portfólio</h2>
-
-###
+## 📁 Portfólio
 
 <div align="left">
   <a href="https://andressanicolau.online" target="_blank">
@@ -51,9 +37,7 @@
   </a>
 </div>
 
-###
-
-<h2>Profile</h2>
+## 👩🏻 Profile
 
 <br clear="both">
 
@@ -63,23 +47,25 @@
   <img height="150" src="https://octodex.github.com/images/nyantocat.gif"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-###
-
 <p align="center">Profile views</p>
+
 <p align="center">Start: 23/07/2025</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Diandressa&style=flat-square&color=ff69b4" alt="Profile views" />
 </p>
 
-###
+<div align="left">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVidTI1cDRqcGF3MXJzcjJobTZzbDkwOXRwemxwbWIzeGg1OGpvdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OvDTq5V3EepBS/giphy.gif" width="100%" alt="profile picture" />
+</div>
+
+## "Você veio aqui porque sabe de algo. Algo que você não consegue explicar, mas sente. Como um bug no sistema."
+
 
 
