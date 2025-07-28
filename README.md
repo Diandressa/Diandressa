@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=33&duration=2000&pause=1000&color=F756C8&width=600&lines=%F0%9F%96%90%F0%9F%8F%BC+Ol%C3%A1%2C+me+chamo+Andressa!)](https://git.io/typing-svg)
 
 📚 Estudante de Front-End\
-🖌 Atuamente Designer
+🖌 Atualmente Designer
 
 ## 🚀 Dev Stacks
 
