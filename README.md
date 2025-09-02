@@ -7,7 +7,7 @@
 
 ### Develop:
 
-[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,sass,javascript,typescript,laravel&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,sass,javascript,typescript,nodejs,fastapi,expressjs,postman,laravel&theme=dark&perline=15)](https://skillicons.dev)
 
 ### Version Control/Versionamento de código:
 
